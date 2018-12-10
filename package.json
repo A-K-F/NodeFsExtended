@@ -1,0 +1,29 @@
+{
+  "name": "fsextended",
+  "version": "0.0.1",
+  "description": "A simple package for adding new file system related functions to fs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-K-F/NodeFsExtended.git"
+  },
+  "keywords": [
+    "mktree",
+    "tree",
+    "filetree",
+    "mkdir",
+    "recursive"
+  ],
+  "author": "Adam K. Foote",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-K-F/NodeFsExtended/issues"
+  },
+  "homepage": "https://github.com/A-K-F/NodeFsExtended#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
