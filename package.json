@@ -1,5 +1,5 @@
 {
-  "name": "fsextended",
+  "name": "@a-k-f/fsextended",
   "version": "0.0.1",
   "description": "A simple package for adding new file system related functions to fs.",
   "main": "index.js",
