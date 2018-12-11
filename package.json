@@ -1,5 +1,5 @@
 {
-  "name": "@a-k-f/fsextended",
+  "name": "fsxtra",
   "version": "0.0.1",
   "description": "A simple package for adding new file system related functions to fs.",
   "main": "index.js",
