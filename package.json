@@ -1,6 +1,6 @@
 {
   "name": "fsxtra",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A simple package for adding new file system related functionality to fs.",
   "main": "index.js",
   "scripts": {
@@ -11,11 +11,14 @@
     "url": "git+https://github.com/A-K-F/NodeFsExtended.git"
   },
   "keywords": [
+    "fs",
     "mktree",
     "tree",
     "filetree",
     "mkdir",
-    "recursive"
+    "recursive",
+    "promisify",
+    "promisified"
   ],
   "author": "Adam K. Foote",
   "license": "ISC",
