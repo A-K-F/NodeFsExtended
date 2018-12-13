@@ -1,24 +1,29 @@
 # NodeFsXtra
 Extends Node FS lib
 
-# use
+# Use
 ```
 const fs = require('fsxtra');
 ```
 
-# fs base methods
-- Includes all `fs` lib functions.
+# **fs** base methods
 
-- All `fs` functions with an alternate 'Sync' method will return promises instead of requiring callbacks
+- Includes all **fs** lib functions.
 
-# New methods
-`.mktree(<filepath>)`
-    - Returns Promise
+- All **fs** functions with an alternate 'Sync' method will return promises instead of requiring callbacks
 
-    - Accepts full filepath, creating as many of the directories in the filepath as needed.
 
-`.mktreeSync(<filepath>)`
-    - Synchronous version of `.mktree()``
+# Extra methods
+`.mktree(`_`<filepath>`_`)`
+
+- Returns Promise
+
+- Accepts full filepath, creating as many of the directories in the filepath as needed.
+
+
+`.mktreeSync(`_`<filepath>`_`)`
+
+- Synchronous version of `.mktree()`
 
 
 ### TODO
