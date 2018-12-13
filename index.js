@@ -1,3 +1,5 @@
+'use strict';
+
 const fs = require('./fsPromisifier');
 const path = require('path');
 
