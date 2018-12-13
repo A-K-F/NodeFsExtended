@@ -1,7 +1,7 @@
 {
   "name": "fsxtra",
-  "version": "0.0.2",
-  "description": "A simple package for adding new file system related functions to fs.",
+  "version": "0.0.3",
+  "description": "A simple package for adding new file system related functionality to fs.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -23,7 +23,8 @@
     "url": "https://github.com/A-K-F/NodeFsExtended/issues"
   },
   "homepage": "https://github.com/A-K-F/NodeFsExtended#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "mocha": "^5.2.0"
   }
 }
